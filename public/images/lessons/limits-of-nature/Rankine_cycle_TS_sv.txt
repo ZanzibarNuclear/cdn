@@ -1,0 +1,2 @@
+src: https://upload.wikimedia.org/wikipedia/commons/0/05/Rankine_cycle_TS_sv.png
+attrib: Natox, CC BY-SA 3.0, via Wikimedia Commons

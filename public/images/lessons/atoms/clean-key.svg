@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50.675594mm"
+   height="43.763519mm"
+   viewBox="0 0 50.675594 43.763519"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient66">
+      <stop
+         style="stop-color:#fcfc0a;stop-opacity:1;"
+         offset="0"
+         id="stop65" />
+      <stop
+         style="stop-color:#dcdc31;stop-opacity:1;"
+         offset="1"
+         id="stop66" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient28">
+      <stop
+         style="stop-color:#0a0595;stop-opacity:0.57021278;"
+         offset="0"
+         id="stop27" />
+      <stop
+         style="stop-color:#4f53bf;stop-opacity:0.24528302;"
+         offset="1"
+         id="stop28" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient26">
+      <stop
+         style="stop-color:#0d9f06;stop-opacity:0.57021278;"
+         offset="0"
+         id="stop25" />
+      <stop
+         style="stop-color:#084505;stop-opacity:0.27672955;"
+         offset="1"
+         id="stop26" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient66"
+       id="linearGradient70"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.19852942,0,0,0.19852942,173.24415,2.7560451)"
+       x1="-136.28989"
+       y1="-94.14003"
+       x2="-118.29822"
+       y2="-94.14003" />
+    <linearGradient
+       xlink:href="#linearGradient28"
+       id="linearGradient71"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.22222223,0,0,0.22222223,-160.58577,-96.403103)"
+       x1="84.137497"
+       y1="132.82083"
+       x2="97.102081"
+       y2="148.16667" />
+    <linearGradient
+       xlink:href="#linearGradient26"
+       id="linearGradient72"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.23484849,0,0,0.23484849,-163.09887,-112.9429)"
+       x1="84.137497"
+       y1="132.82083"
+       x2="97.102081"
+       y2="148.16667" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-124.29235,-58.506266)">
+    <g
+       id="g77">
+      <g
+         id="g79">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffe680;stroke-width:0.188739;stroke-dasharray:none;stroke-opacity:0.449153"
+           id="rect76"
+           width="50.486862"
+           height="43.57478"
+           x="124.38673"
+           y="58.600636" />
+        <path
+           style="fill:url(#linearGradient72);fill-opacity:1;fill-rule:evenodd;stroke-width:0.0621369"
+           id="path68"
+           d="m -135.94498,-80.258827 a 6.1515627,6.1515627 0 0 1 -6.13409,6.151538 6.1515627,6.1515627 0 0 1 -6.16894,-6.116588 6.1515627,6.1515627 0 0 1 6.09904,-6.18629 6.1515627,6.1515627 0 0 1 6.20359,6.081441"
+           transform="rotate(-174.65152)" />
+        <path
+           style="fill:url(#linearGradient71);fill-opacity:1;fill-rule:evenodd;stroke-width:0.0587962"
+           id="path69"
+           d="m -134.89174,-65.476257 a 5.8208337,5.8208337 0 0 1 -5.80429,5.82081 5.8208337,5.8208337 0 0 1 -5.83728,-5.787739 5.8208337,5.8208337 0 0 1 5.77113,-5.853694 5.8208337,5.8208337 0 0 1 5.87007,5.754482"
+           transform="rotate(-174.65152)" />
+        <path
+           style="fill:url(#linearGradient70);fill-opacity:1;fill-rule:evenodd;stroke:#c8c800;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+           id="path70"
+           d="m 149.75846,-15.93353 a 1.7859375,1.7859375 0 0 1 -1.78087,1.78593 1.7859375,1.7859375 0 0 1 -1.79098,-1.775783 1.7859375,1.7859375 0 0 1 1.77069,-1.79602 1.7859375,1.7859375 0 0 1 1.80104,1.76558"
+           transform="rotate(31.942204)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#28220b;fill-opacity:1;stroke:#c8c800;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+           x="143.07292"
+           y="66.510727"
+           id="text72"><tspan
+             id="tspan77"
+             x="143.07292"
+             y="66.510727">electron-</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#28220b;fill-opacity:1;stroke:#c8c800;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+           x="144.58755"
+           y="80.625549"
+           id="text74"><tspan
+             id="tspan78"
+             x="144.58755"
+             y="80.625549">proton+</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#28220b;fill-opacity:1;stroke:#c8c800;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+           x="144.70073"
+           y="94.526505"
+           id="text76"><tspan
+             id="tspan79"
+             x="144.70073"
+             y="94.526505">neutron</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

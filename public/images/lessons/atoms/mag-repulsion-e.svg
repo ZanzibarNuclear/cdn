@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="31.320681mm"
+   height="4.7405577mm"
+   viewBox="0 0 31.320681 4.7405577"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient66">
+      <stop
+         style="stop-color:#fcfc0a;stop-opacity:1;"
+         offset="0"
+         id="stop65" />
+      <stop
+         style="stop-color:#dcdc31;stop-opacity:1;"
+         offset="1"
+         id="stop66" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient66"
+       id="linearGradient51"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.19852942,0,0,0.19852942,186.59523,20.446783)"
+       x1="-136.28989"
+       y1="-94.14003"
+       x2="-118.29822"
+       y2="-94.14003" />
+    <linearGradient
+       xlink:href="#linearGradient66"
+       id="linearGradient69"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.19852942,0,0,0.19852942,186.59523,20.446783)"
+       x1="-136.28989"
+       y1="-94.14003"
+       x2="-118.29822"
+       y2="-94.14003" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-148.10114,-35.110084)">
+    <g
+       id="g29"
+       transform="rotate(0.20226675,14461.622,1940.1705)">
+      <g
+         id="g27">
+        <path
+           style="fill:none;fill-opacity:0.0666667;stroke:#000000;stroke-width:0.499999"
+           d="m 142.04964,87.919473 8.65338,0.03287"
+           id="path27" />
+      </g>
+      <path
+         style="fill:none;fill-opacity:0.0666667;stroke:#000000;stroke-width:0.626712"
+         d="m 141.74074,87.825057 c 2.19225,2.345386 2.19225,2.345386 2.19225,2.345386"
+         id="path28" />
+      <path
+         style="fill:none;fill-opacity:0.0666667;stroke:#000000;stroke-width:0.626712"
+         d="m 141.70242,88.20501 c 2.19025,-2.347254 2.19025,-2.347254 2.19025,-2.347254"
+         id="path29" />
+    </g>
+    <g
+       id="g41"
+       transform="rotate(-0.26483984,-10526.927,-6839.896)">
+      <path
+         style="fill:url(#linearGradient51);fill-opacity:1;fill-rule:evenodd;stroke:#c8c800;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         id="path41"
+         d="m 163.10955,1.7572079 a 1.7859375,1.7859375 0 0 1 -1.78087,1.7859303 1.7859375,1.7859375 0 0 1 -1.79098,-1.7757836 1.7859375,1.7859375 0 0 1 1.77069,-1.79601942 1.7859375,1.7859375 0 0 1 1.80104,1.76557952"
+         transform="rotate(31.942204)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#28220b;fill-opacity:1;stroke:#c8c800;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="134.5249"
+         y="88.861603"
+         id="text41"><tspan
+           id="tspan41"
+           x="134.5249"
+           y="88.861603">-</tspan></text>
+    </g>
+    <g
+       id="g44"
+       transform="rotate(179.42302,160.57473,62.831687)">
+      <g
+         id="g42">
+        <path
+           style="fill:none;fill-opacity:0.0666667;stroke:#000000;stroke-width:0.499999"
+           d="m 142.04964,87.919473 8.65338,0.03287"
+           id="path42" />
+      </g>
+      <path
+         style="fill:none;fill-opacity:0.0666667;stroke:#000000;stroke-width:0.626712"
+         d="m 141.74074,87.825057 c 2.19225,2.345386 2.19225,2.345386 2.19225,2.345386"
+         id="path43" />
+      <path
+         style="fill:none;fill-opacity:0.0666667;stroke:#000000;stroke-width:0.626712"
+         d="m 141.70242,88.20501 c 2.19025,-2.347254 2.19025,-2.347254 2.19025,-2.347254"
+         id="path44" />
+    </g>
+    <g
+       id="g68"
+       transform="rotate(-0.26483984,-10530.487,-5299.7639)">
+      <path
+         style="fill:url(#linearGradient69);fill-opacity:1;fill-rule:evenodd;stroke:#c8c800;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         id="path68"
+         d="m 163.10955,1.7572079 a 1.7859375,1.7859375 0 0 1 -1.78087,1.7859303 1.7859375,1.7859375 0 0 1 -1.79098,-1.7757836 1.7859375,1.7859375 0 0 1 1.77069,-1.79601942 1.7859375,1.7859375 0 0 1 1.80104,1.76557952"
+         transform="rotate(31.942204)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#28220b;fill-opacity:1;stroke:#c8c800;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="134.5249"
+         y="88.861603"
+         id="text68"><tspan
+           id="tspan68"
+           x="134.5249"
+           y="88.861603">-</tspan></text>
+    </g>
+  </g>
+</svg>

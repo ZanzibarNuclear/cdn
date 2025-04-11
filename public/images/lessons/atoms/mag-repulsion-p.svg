@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48.005821mm"
+   height="11.641667mm"
+   viewBox="0 0 48.005821 11.641667"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient28">
+      <stop
+         style="stop-color:#0a0595;stop-opacity:0.57021278;"
+         offset="0"
+         id="stop27" />
+      <stop
+         style="stop-color:#4f53bf;stop-opacity:0.24528302;"
+         offset="1"
+         id="stop28" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient28"
+       id="linearGradient67"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.22222223,0,0,0.22222223,-186.53233,-116.14612)"
+       x1="84.137497"
+       y1="132.82083"
+       x2="97.102081"
+       y2="148.16667" />
+    <linearGradient
+       xlink:href="#linearGradient28"
+       id="linearGradient68"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.22222223,0,0,0.22222223,-186.53233,-116.14612)"
+       x1="84.137497"
+       y1="132.82083"
+       x2="97.102081"
+       y2="148.16667" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-139.6473,-49.956961)">
+    <g
+       id="g59"
+       transform="rotate(0.20226675,9274.3161,-445.37871)">
+      <g
+         id="g58">
+        <path
+           style="fill:none;fill-opacity:0.0666667;stroke:#000000;stroke-width:0.499999"
+           d="m 142.04964,87.919473 8.65338,0.03287"
+           id="path57" />
+      </g>
+      <path
+         style="fill:none;fill-opacity:0.0666667;stroke:#000000;stroke-width:0.626712"
+         d="m 141.74074,87.825057 c 2.19225,2.345386 2.19225,2.345386 2.19225,2.345386"
+         id="path58" />
+      <path
+         style="fill:none;fill-opacity:0.0666667;stroke:#000000;stroke-width:0.626712"
+         d="m 141.70242,88.20501 c 2.19025,-2.347254 2.19025,-2.347254 2.19025,-2.347254"
+         id="path59" />
+    </g>
+    <g
+       id="g63"
+       transform="rotate(179.42302,164.64432,72.001125)">
+      <g
+         id="g61">
+        <path
+           style="fill:none;fill-opacity:0.0666667;stroke:#000000;stroke-width:0.499999"
+           d="m 142.04964,87.919473 8.65338,0.03287"
+           id="path61" />
+      </g>
+      <path
+         style="fill:none;fill-opacity:0.0666667;stroke:#000000;stroke-width:0.626712"
+         d="m 141.74074,87.825057 c 2.19225,2.345386 2.19225,2.345386 2.19225,2.345386"
+         id="path62" />
+      <path
+         style="fill:none;fill-opacity:0.0666667;stroke:#000000;stroke-width:0.626712"
+         d="m 141.70242,88.20501 c 2.19025,-2.347254 2.19025,-2.347254 2.19025,-2.347254"
+         id="path63" />
+    </g>
+    <g
+       id="g65"
+       transform="translate(-2.1236757,-44.605263)">
+      <path
+         style="fill:url(#linearGradient67);fill-opacity:1;fill-rule:evenodd;stroke-width:0.0587962"
+         id="path65"
+         d="m -160.83828,-85.219276 a 5.8208337,5.8208337 0 0 1 -5.8043,5.82081 5.8208337,5.8208337 0 0 1 -5.83728,-5.78774 5.8208337,5.8208337 0 0 1 5.77114,-5.853693 5.8208337,5.8208337 0 0 1 5.87006,5.754482"
+         transform="rotate(-174.65152)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#28220b;fill-opacity:1;stroke:#c8c800;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="155.39168"
+         y="102.40464"
+         id="text65"><tspan
+           id="tspan65"
+           x="155.39168"
+           y="102.40464">+</tspan></text>
+    </g>
+    <g
+       id="g67"
+       transform="translate(13.226684,-44.605263)">
+      <path
+         style="fill:url(#linearGradient68);fill-opacity:1;fill-rule:evenodd;stroke-width:0.0587962"
+         id="path67"
+         d="m -160.83828,-85.219276 a 5.8208337,5.8208337 0 0 1 -5.8043,5.82081 5.8208337,5.8208337 0 0 1 -5.83728,-5.78774 5.8208337,5.8208337 0 0 1 5.77114,-5.853693 5.8208337,5.8208337 0 0 1 5.87006,5.754482"
+         transform="rotate(-174.65152)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#28220b;fill-opacity:1;stroke:#c8c800;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="155.39168"
+         y="102.40464"
+         id="text67"><tspan
+           id="tspan67"
+           x="155.39168"
+           y="102.40464">+</tspan></text>
+    </g>
+  </g>
+</svg>

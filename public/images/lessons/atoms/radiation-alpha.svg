@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="79.222198mm"
+   height="42.959766mm"
+   viewBox="0 0 79.222198 42.959766"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient26">
+      <stop
+         style="stop-color:#0d9f06;stop-opacity:0.57021278;"
+         offset="0"
+         id="stop25" />
+      <stop
+         style="stop-color:#084505;stop-opacity:0.27672955;"
+         offset="1"
+         id="stop26" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient28">
+      <stop
+         style="stop-color:#0a0595;stop-opacity:0.57021278;"
+         offset="0"
+         id="stop27" />
+      <stop
+         style="stop-color:#4f53bf;stop-opacity:0.24528302;"
+         offset="1"
+         id="stop28" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient26"
+       id="linearGradient25-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.23484849,0,0,0.23484849,-115.2019,-244.48404)"
+       x1="84.137497"
+       y1="132.82083"
+       x2="97.102081"
+       y2="148.16667" />
+    <linearGradient
+       xlink:href="#linearGradient28"
+       id="linearGradient27-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.22222223,0,0,0.22222223,-106.33179,-237.13124)"
+       x1="84.137497"
+       y1="132.82083"
+       x2="97.102081"
+       y2="148.16667" />
+    <linearGradient
+       xlink:href="#linearGradient28"
+       id="linearGradient46-0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.22222223,0,0,0.22222223,-107.51753,-249.79687)"
+       x1="84.137497"
+       y1="132.82083"
+       x2="97.102081"
+       y2="148.16667" />
+    <linearGradient
+       xlink:href="#linearGradient26"
+       id="linearGradient45-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.23484849,0,0,0.23484849,-100.94209,-245.81907)"
+       x1="84.137497"
+       y1="132.82083"
+       x2="97.102081"
+       y2="148.16667" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-6.3409459,-170.03189)">
+    <rect
+       style="fill:#ffffff;fill-opacity:0.972637;stroke:#000000;stroke-width:0.256803"
+       id="rect3"
+       width="78.965401"
+       height="42.702953"
+       x="6.4693475"
+       y="170.16029" />
+    <g
+       id="g69"
+       transform="translate(-20.933822,-28.214436)">
+      <path
+         style="fill:url(#linearGradient25-7);fill-opacity:1;fill-rule:evenodd;stroke-width:0.0621369"
+         id="path24-8"
+         d="m -88.048015,-211.79997 a 6.1515627,6.1515627 0 0 1 -6.134087,6.15154 6.1515627,6.1515627 0 0 1 -6.168938,-6.11659 6.1515627,6.1515627 0 0 1 6.099038,-6.18629 6.1515627,6.1515627 0 0 1 6.20359,6.08144"
+         transform="rotate(-174.65152)" />
+      <path
+         style="fill:url(#linearGradient27-8);fill-opacity:1;fill-rule:evenodd;stroke-width:0.0587962"
+         id="path26"
+         d="m -80.637784,-206.20439 a 5.8208337,5.8208337 0 0 1 -5.804299,5.82081 5.8208337,5.8208337 0 0 1 -5.837275,-5.78774 5.8208337,5.8208337 0 0 1 5.771134,-5.85369 5.8208337,5.8208337 0 0 1 5.870064,5.75448"
+         transform="rotate(-174.65152)" />
+      <path
+         style="fill:url(#linearGradient46-0);fill-opacity:1;fill-rule:evenodd;stroke-width:0.0587962"
+         id="path45-9"
+         d="m -81.823545,-218.87004 a 5.8208337,5.8208337 0 0 1 -5.804298,5.82081 5.8208337,5.8208337 0 0 1 -5.837275,-5.78774 5.8208337,5.8208337 0 0 1 5.771133,-5.85369 5.8208337,5.8208337 0 0 1 5.870064,5.75448"
+         transform="rotate(-174.65152)" />
+      <path
+         style="fill:url(#linearGradient45-9);fill-opacity:1;fill-rule:evenodd;stroke-width:0.0621369"
+         id="path44-4"
+         d="m -73.788264,-213.13499 a 6.1515627,6.1515627 0 0 1 -6.134088,6.15153 6.1515627,6.1515627 0 0 1 -6.168938,-6.11658 6.1515627,6.1515627 0 0 1 6.099038,-6.18629 6.1515627,6.1515627 0 0 1 6.203591,6.08144"
+         transform="rotate(-174.65152)" />
+    </g>
+  </g>
+</svg>

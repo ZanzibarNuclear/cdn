@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="153.97858mm"
+   height="157.27963mm"
+   viewBox="0 0 153.97858 157.27963"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="DartArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path6" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-15.168709,-91.212278)">
+    <g
+       id="g6">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 31.590593,91.21228 V 230.47786 H 166.40679"
+         id="path1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.32292;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none"
+         x="14.682953"
+         y="162.84729"
+         id="text1"><tspan
+           id="tspan1"
+           style="stroke:#000000;stroke-width:1.32292;stroke-opacity:1"
+           x="14.682953"
+           y="162.84729">p</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.32292;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         x="98.331284"
+         y="247.83044"
+         id="text2"><tspan
+           id="tspan2"
+           style="stroke-width:1.32292"
+           x="98.331284"
+           y="247.83044">v</tspan></text>
+      <path
+         id="path3"
+         style="fill:#ffa300;fill-rule:evenodd;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none;marker-mid:url(#DartArrow)"
+         d="M 159.96564,214.40178 H 102.6617 45.357756 v -46.7206 -46.72061 h 46.720607 46.720607 c 1.39115,17.97724 3.19821,35.48658 6.39978,51.4271 3.20158,15.94051 7.79767,30.3122 14.76689,42.01411 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#ffa300;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         x="37.041668"
+         y="216.42917"
+         id="text3"><tspan
+           id="tspan3"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="37.041668"
+           y="216.42917">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#ffa300;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         x="35.983334"
+         y="119.59167"
+         id="text4"><tspan
+           id="tspan4"
+           style="stroke-width:0.264583"
+           x="35.983334"
+           y="119.59167">2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#ffa300;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         x="143.40416"
+         y="119.0625"
+         id="text5"><tspan
+           id="tspan5"
+           style="stroke-width:0.264583"
+           x="143.40416"
+           y="119.0625">3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#ffa300;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         x="164.04166"
+         y="216.42917"
+         id="text6"><tspan
+           id="tspan6"
+           style="stroke-width:0.264583"
+           x="164.04166"
+           y="216.42917">4</tspan></text>
+    </g>
+  </g>
+</svg>

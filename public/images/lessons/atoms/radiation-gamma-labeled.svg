@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="28.540449mm"
+   height="23.00646mm"
+   viewBox="0 0 28.540449 23.00646"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-75.134065,-231.21159)">
+    <g
+       id="g93">
+      <g
+         id="g90"
+         transform="translate(11.011653,-23.12447)"
+         style="stroke-width:1.1;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m 64.669833,259.8734 c 0,0 1.076395,-11.06986 2.33219,0 1.255795,11.06986 2.009272,1.27422 2.278371,0.0796 0.269099,-1.19459 1.022576,-10.59202 2.206611,-0.23891 1.184036,10.35308 1.955452,3.18556 2.332191,0.23891 0.376739,-2.94665 1.112276,-9.71599 2.296311,-0.0796 1.184036,9.63634 1.793992,3.34484 2.278371,0.15928"
+           id="path89" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m 78.395072,260.0307 c 0,0 1.076395,-11.06986 2.33219,0 1.255795,11.06986 2.009272,1.27422 2.278371,0.0796 0.269099,-1.19459 1.022576,-10.59202 2.206611,-0.23891 1.184036,10.35308 1.955452,3.18556 2.332191,0.23891 0.376739,-2.94665 1.112276,-9.71599 2.296311,-0.0796 1.184036,9.63634 1.793992,3.34484 2.278371,0.15928"
+           id="path90" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;font-family:Lexend;-inkscape-font-specification:'Lexend, @wght=200';font-variation-settings:'wght' 200;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none"
+         x="76.924248"
+         y="254.05455"
+         id="text90"><tspan
+           id="tspan90"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Lexend;-inkscape-font-specification:'Lexend, @wght=300';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 300;fill:#000000;fill-opacity:1;stroke-width:0.2"
+           x="76.924248"
+           y="254.05455">&gt;100keV</tspan></text>
+      <g
+         id="g92"
+         transform="translate(11.011653,-23.12447)"
+         style="stroke-width:1.1;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m 64.669833,259.8734 c 0,0 1.076395,-11.06986 2.33219,0 1.255795,11.06986 2.009272,1.27422 2.278371,0.0796 0.269099,-1.19459 1.022576,-10.59202 2.206611,-0.23891 1.184036,10.35308 1.955452,3.18556 2.332191,0.23891 0.376739,-2.94665 1.112276,-9.71599 2.296311,-0.0796 1.184036,9.63634 1.793992,3.34484 2.278371,0.15928"
+           id="path91" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m 78.395072,260.0307 c 0,0 1.076395,-11.06986 2.33219,0 1.255795,11.06986 2.009272,1.27422 2.278371,0.0796 0.269099,-1.19459 1.022576,-10.59202 2.206611,-0.23891 1.184036,10.35308 1.955452,3.18556 2.332191,0.23891 0.376739,-2.94665 1.112276,-9.71599 2.296311,-0.0796 1.184036,9.63634 1.793992,3.34484 2.278371,0.15928"
+           id="path92" />
+      </g>
+    </g>
+  </g>
+</svg>
