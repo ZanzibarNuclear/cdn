@@ -1,5 +1,6 @@
 import fastify from 'fastify'
 import fastifyStatic from '@fastify/static'
+import fastifyCors from '@fastify/cors'
 import { fileURLToPath } from 'url'
 import { dirname, join } from 'path'
 
@@ -8,6 +9,16 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
 const app = fastify()
+const options = {}
+
+app.register(fastifyCors, {
+  origin: true,
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS', 'PATCH'],
+  allowedHeaders: ['Content-Type', 'Authorization', 'Origin', 'X-Requested-With', 'Accept', 'Set-Cookie', 'X-Session-Token'],
+  credentials: true,
+  preflightContinue: true,
+  optionsSuccessStatus: 204
+})
 
 // Register the static plugin
 app.register(fastifyStatic, {
